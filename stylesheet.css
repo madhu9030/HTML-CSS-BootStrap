@@ -1,0 +1,154 @@
+
+	h4 {
+	
+	
+	border-color:grey;
+	border-width: 2px;
+	border-style: solid;
+	padding: 2px;
+	border-radius:10px; 
+	
+	
+
+}
+h3.about{
+	border-color:grey;
+	border-width: 2px;
+	border-style: solid;
+	padding: 2px;
+	border-radius:10px; 
+}
+h4.class1{
+	color:green;
+
+}
+h4.class2{
+	color:maroon;
+}
+h4.class3{
+	color:yellow;
+}
+h4.class4{
+	color:lime;
+}
+h4.class5{
+	color:aqua;
+}
+h4.class6{
+	color: blue;
+}
+div.name{
+	font-family: italic;
+	font-style: bold;
+}
+.highlight{
+	color: blue;
+}
+body{
+	background-color:lightblue;
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	margin: 10;
+	padding: 20px;
+	
+	
+}
+h1{
+	text-align: center;
+	color: blue;
+	//width: 100px;
+
+	
+
+}
+.image{
+	border-color:black;
+	border-width: 2px;
+	border-style: solid;
+	padding: 2px;
+	background-color: red;
+}
+div.phone{
+	text-decoration:underline;
+	
+}
+@media screen and (max-width: 480px){
+	h4{
+		background-color: yellow;
+	}
+}
+@media screen and (min-width: 481px) and (max-width: 540px){
+	h4{
+		background-color:grey;
+	}
+}
+@media screen and (min-width: 541px) and (max-width: 768px){
+	h4{
+		background-color:red;
+	}
+}
+@media screen and (min-width:769px) and (max-width:900px){
+	h4{
+		background-color:green;
+	}
+}
+@media screen and (min-width:901px) and (max-width:2560px){
+	h4{
+		background-color:none;
+	}
+}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	color: red;
+}
+h3.about{
+	color: red;
+}
+h4.row{
+	
+}
+p.pad{
+	padding-left:100px;
+	
+	font-weight: 20px;
+}
+img.pad1{
+	
+	
+
+	
+}
+div.pad2{
+	padding-left: 1050px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
